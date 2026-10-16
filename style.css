@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgba(36, 36, 193, 0.748);
+}
+.space-bar{
+  background-color: #D4D0C8;
+
+}
